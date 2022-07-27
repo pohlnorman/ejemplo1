@@ -1,3 +1,5 @@
 hola mundo
 hola de nuevo
 hola numero 3
+texto desde paginaHome
+segundo texto de home
