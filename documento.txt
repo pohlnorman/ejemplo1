@@ -1,3 +1,7 @@
 hola mundo
 hola de nuevo
+<<<<<<< HEAD
 texto desde paginaHome
+=======
+hola numero 3
+>>>>>>> desarrollo
